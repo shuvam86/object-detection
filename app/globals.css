@@ -37,5 +37,8 @@ body {
   .gradient-title {
     @apply gradient text-transparent bg-clip-text;
   }
+  .gradient-text {
+    @apply gradient text-transparent bg-clip-text;
+  }
 
 }

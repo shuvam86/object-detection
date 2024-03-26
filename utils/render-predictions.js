@@ -37,4 +37,4 @@ export const renderPredictions = (predictions, ctx) => {
 const playAudio = throttle(() => {
   const audio = new Audio("/audio1.mp3");
   audio.play();
-}, 2000); 
+}, 10 * 1000); 
