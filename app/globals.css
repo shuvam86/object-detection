@@ -40,5 +40,4 @@ body {
   .gradient-text {
     @apply gradient text-transparent bg-clip-text;
   }
-
 }
